@@ -60,7 +60,7 @@ You've been provided an `index.html` file, the contents may be familiar to you, 
 First things first, let's create a `style.css` file in this lesson folder.
 You can do this by either using the `touch` command:
 
-`touch styles.css`
+`touch style.css`
 
 Or by using the new file button in VSCode.
 
@@ -68,13 +68,17 @@ Or by using the new file button in VSCode.
 
 In order for our `style.css` file to be used by our html file, we need to link the two of them together. We can accomplish this by using a `link` tag in our `index.html`.
 
-Open your `index.html`, add the following to the head section in the html file:
+Open your `index.html`, add the following to the head section in the HTML file:
 
 ```html
 <link rel="stylesheet" href="./style.css" />
 ```
 
-**NOTE**: Place this tag before the opening `title` tag in the html file.
+`rel` stands for *relationship*. The relationship of the linked file to our HTML page.
+
+`href` stands for *hypertext reference*. The location of the file we're linking.
+
+**NOTE**: Place this tag before the opening `title` tag in the HTML file.
 
 Your `head` section should look like the following:
 
@@ -87,13 +91,13 @@ Your `head` section should look like the following:
 </head>
 ```
 
-#### Discuss 5 min
+#### Discuss (5 min)
 
-Talking points:
+Quick Questions:
 
-- Why we link css files in the head section
-- Can you link multiple css files.
-- Can you link external css files.
+- Why do we link CSS files in the head section?
+- Can you link multiple CSS files?
+- Can you link external CSS files?
 
 ### Applying Styles
 
@@ -107,9 +111,9 @@ html {
 }
 ```
 
-This is a basic css reset. By default padding and margins are applied to your html by the browser.
+This is a basic CSS reset. By default padding and margins are applied to your HTML by the browser.
 
-Let's style the `nav` element. Add the following to your css file:
+Let's style the `nav` element. Add the following to your CSS file:
 
 ```css
 nav {
@@ -118,7 +122,7 @@ nav {
 }
 ```
 
-Notice the syntax for padding, this is shorthand for applying padding on an element. Padding,margin and a few other properties follow the convention of applying styles in a clockwise direction. For example:
+Notice the syntax for padding, this is shorthand for applying padding on an element. Padding, margin and a few other properties follow the convention of applying styles in a clockwise direction. For example:
 
 ```css
 element {
@@ -127,6 +131,8 @@ element {
 ```
 
 This will apply padding from top, right, bottom, left.
+
+![clock](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdata.whicdn.com%2Fimages%2F28395546%2Foriginal.gif&f=1&nofb=1)
 
 In the case of our shorthand syntax, it combines the properties to apply them to the horizontal and vertical axis of the element.
 
@@ -170,7 +176,9 @@ Keep in mind, class styling properties can be shared with multiple elements with
 
 ## Recap
 
-In this lesson we touched on the basics of CSS. We linked our stylesheet and implemented some styling to our html.
+In this lesson we touched on the basics of CSS. We linked our stylesheet and implemented some styling to our HTML.
+
+![George](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fa.fod4.com%2Fimages%2FGifGuide%2Fclapping%2Fseinfeld.gif&f=1&nofb=1)
 
 ## Resources
 
