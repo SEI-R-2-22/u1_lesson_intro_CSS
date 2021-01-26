@@ -1,4 +1,4 @@
-# Introduction To CSS
+# Introduction to CSS
 
 ![css-image](https://www.tutorialrepublic.com/lib/images/css-illustration.png)
 
