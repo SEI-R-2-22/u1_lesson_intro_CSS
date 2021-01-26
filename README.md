@@ -53,6 +53,8 @@ From W3Schools:
 >
 > With an external stylesheet file, you can change the look of an entire website by changing just one file!
 
+![Flair](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FV80llXf734WzK%2Fgiphy.gif&f=1&nofb=1)
+
 ## Applying Some Flair To Our HTML
 
 You've been provided an `index.html` file, the contents may be familiar to you, we built it in the previous lesson!
