@@ -57,7 +57,7 @@ From W3Schools:
 
 You've been provided an `index.html` file, the contents may be familiar to you, we built it in the previous lesson!
 
-First things first, let's create a `styles.css` file in this lesson folder.
+First things first, let's create a `style.css` file in this lesson folder.
 You can do this by either using the `touch` command:
 
 `touch styles.css`
@@ -66,12 +66,12 @@ Or by using the new file button in VSCode.
 
 ### Linking Our Stylesheet
 
-In order for our `styles.css` file to be used by our html file, we need to link the two of them together. We can accomplish this by using a `link` tag in our `index.html`.
+In order for our `style.css` file to be used by our html file, we need to link the two of them together. We can accomplish this by using a `link` tag in our `index.html`.
 
 Open your `index.html`, add the following to the head section in the html file:
 
 ```html
-<link rel="stylesheet" href="./styles.css" />
+<link rel="stylesheet" href="./style.css" />
 ```
 
 **NOTE**: Place this tag before the opening `title` tag in the html file.
@@ -82,7 +82,7 @@ Your `head` section should look like the following:
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./style.css" />
   <title>Document</title>
 </head>
 ```
@@ -97,7 +97,7 @@ Talking points:
 
 ### Applying Styles
 
-Open your `styles.css` file and add in the following:
+Open your `style.css` file and add in the following:
 
 ```css
 body,
