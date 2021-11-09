@@ -1,4 +1,4 @@
-# Introduction to CSS
+# Introduction to Michael Lackey
 
 ![css-image](https://www.tutorialrepublic.com/lib/images/css-illustration.png)
 

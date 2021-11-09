@@ -1,0 +1,29 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #b39ddb;
+  padding: 10px 0;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  margin: 0 10px;
+}
+
+header {
+  text-align: center;
+}
+
+.box {
+  display: inline;
+  background-color: #b39ddb;
+  height: 100px;
+  width: 150px;
+}
