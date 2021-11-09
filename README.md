@@ -1,4 +1,4 @@
-# Introduction to Michael Lackey
+# Intro to Michael Lackey
 
 ![css-image](https://www.tutorialrepublic.com/lib/images/css-illustration.png)
 
