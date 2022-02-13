@@ -180,8 +180,6 @@ Keep in mind, class styling properties can be shared with multiple elements with
 
 In this lesson we touched on the basics of CSS. We linked our stylesheet and implemented some styling to our HTML.
 
-![George](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fa.fod4.com%2Fimages%2FGifGuide%2Fclapping%2Fseinfeld.gif&f=1&nofb=1)
-
 ## Resources
 
 - [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
