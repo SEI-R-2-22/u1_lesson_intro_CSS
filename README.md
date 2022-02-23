@@ -19,7 +19,7 @@ So far we've learned how to set up and structure a HTML file. Now we'll make it 
 
 ## Getting Started
 
-- Fork and Clone this repository
+- Fork and Clone this repository OR you can start from the code we made in the HTML lesson
 - Open this lesson in your code editor
 - Open the `index.html` file in your browser (Refer to the prior lesson on how to do so)
 
