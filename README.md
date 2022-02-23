@@ -11,7 +11,7 @@ So far we've learned how to set up and structure a HTML file. Now we'll make it 
 - Learn how to link stylesheets
 - Learn how to position elements
 - Learn parent child relationships
-- Learn css specificity
+- Learn CSS specificity
 
 ## What You'll Be Building
 
@@ -23,17 +23,17 @@ So far we've learned how to set up and structure a HTML file. Now we'll make it 
 - Open this lesson in your code editor
 - Open the `index.html` file in your browser (Refer to the prior lesson on how to do so)
 
-## What Is CSS
+## What Is CSS?
 
 ![Cascade](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F31.media.tumblr.com%2Fcd2ca2396c0bd6251170ef25810ef755%2Ftumblr_mu1nvtnk9e1s85u2fo1_500.gif&f=1&nofb=1)
 
 CSS stands for `cascading style sheets`. This means that when the file is read, it is being read from top to bottom. (We'll see how this works in just a bit)
 
-> CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+> CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
 >
-> CSS saves a lot of work. It can control the layout of multiple web pages all at once
+> CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 
-### Why CSS
+### Why CSS?
 
 From W3Schools:
 
