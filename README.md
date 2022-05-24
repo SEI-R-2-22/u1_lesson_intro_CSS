@@ -129,6 +129,15 @@ nav {
 }
 ```
 
+That color code is known as a "Hexidecimal" system, with 16 different characters (0-9, A-F) that we can use. The first 2 digits control the level of Red, the second 2 are for our Green values, and the last 2 control the Blue levels.  #000000 is the lowest value possibe - Black, while #FFFFFF is everything set to max - White. 
+
+We also can use RGB values, which go between 0-255. (0, 0, 0) will be Black, (255, 255, 255) would be White, (255, 0, 0) will be Red. 
+What color do we think (200, 200, 0) would resemble?
+
+Additionally, we have the ability to use RGBA, using the "Alpha" value to set the opacity of our element. This value goes between 0 and 1, with 0 being fully transparent, and 1 being fully opaque. (255, 255, 255, 1) would be a strong, opaque White, while (255, 255, 255, .2) would be mostly transparent.
+
+CSS has somewhere around 85 colors that can be called on by name, ranging from the common ("Blue", "Red", "Green"), to a bit more far-out ("Lemonchiffon", "Dodgerblue", "Azure"). Some colors you may be familiar with ("Cerulean") do not exist, and you will need to use RGB or Hexidecimal to get those specific colors. 
+
 Notice the syntax for padding, this is shorthand for applying padding on an element. Padding, margin and a few other properties follow the convention of applying styles in a clockwise direction. For example:
 
 ```css
