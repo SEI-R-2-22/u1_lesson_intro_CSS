@@ -6,6 +6,11 @@
 
 So far we've learned how to set up and structure a HTML file. Now we'll make it look pretty! This an introductory lesson to CSS. We'll touch on very basic topics ranging from positioning to coloring!
 
+
+CSS is how webpages are styled. Period. If you've seen something on the web, CSS is how it has been styled. Which means the sky is the limit with it, and there are countless ways to work with it. We are going to start off simple - if you are a complete beginner don't get too overwhelmed by its potential. As we continue on with our lessons, labs, assignments, and projects, make a note of how much you are progressing, and how much you have learned each week!
+
+You will not be the Da Vinci of CSS by the end of this lesson. But 12 weeks from now, when you are presenting your capstone project, you will be amazed at how much you are able to do.
+
 ## Objectives
 
 - Learn how to link stylesheets
@@ -179,6 +184,8 @@ Keep in mind, class styling properties can be shared with multiple elements with
 ## Recap
 
 In this lesson we touched on the basics of CSS. We linked our stylesheet and implemented some styling to our HTML.
+
+There are easily hundreds of different functions we can do with our CSS. Some, like Keyframe Animations or Filters, are relatively new. There are new properties being developed all of the time. Like our HTML elements and Terminal commands, we do not expect you to memorize and fully understand every single one of these, but as we continue on in this class, we want you to take note of which commands you are using the most, which ones you find the most interesting, and any new ones you find interesting and want to show off. 
 
 ## Resources
 
